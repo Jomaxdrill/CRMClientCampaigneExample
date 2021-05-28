@@ -6,6 +6,8 @@ Express+Node.js v14.15.5
 Oracle Database connection. Also, use SQL Developer for database manipulation.
 Main comments language: Spanish
 
+Download project here: https://drive.google.com/file/d/1TBQ3xJ5KBcdETuJ7gkv3vCV-Ko_RGWYU/view?usp=sharing
+
 Context:
 A CSV File contains clients data information. CRM staff wants an application that lets them select the respective information they need  between al the possible available data columns (name,surname,phone,address) and finally store all this information table where one of its columns;campaign_id,references the group of clients uploaded. That's why it is mandatory to check before upload the last campaign_id value to assign a new one for all these new clients at the table. 
 
